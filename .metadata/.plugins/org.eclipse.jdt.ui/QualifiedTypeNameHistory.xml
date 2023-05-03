@@ -1,2 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.xworkz.computer.dto.ComputerDto"/>
+    <fullyQualifiedTypeName name="com.xworkz.computer.dto.Type"/>
+    <fullyQualifiedTypeName name="com.xworkz.computer.dto.ProcessorDto"/>
+    <fullyQualifiedTypeName name="com.xworkz.computer.dao.ComputerDao"/>
+</qualifiedTypeNameHistroy>

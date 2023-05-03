@@ -1,0 +1,41 @@
+package com.xworkz.computer.dao;
+
+import com.xworkz.computer.dto.ComputerDto;
+
+public class ComputerDao {
+	
+	
+	ComputerDto[] computer = new ComputerDto[15];
+	
+	
+	public ComputerDto[] SaveDetails(ComputerDto dto) {
+		
+		if(dto!=null) {
+			
+			for(int i=0;i<computer.length;i++) {
+				if(computer[i]==null) {
+					computer[i] = dto;
+					return computer;
+				}
+				System.out.println("Computer  Allready have values so not executed");
+				return computer;
+			}
+			
+			
+		}
+		System.out.println("Dto is not null Check the dto");
+		return computer;
+	}
+	
+	
+	public ComputerDto ReadComputer() {
+		return 
+	}
+	
+	
+	
+	
+	
+	
+	
+}
