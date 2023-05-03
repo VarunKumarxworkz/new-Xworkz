@@ -1,0 +1,14 @@
+package com.xworkz.resume.dto;
+
+public class ResumeDto {
+
+	private String name;
+	private String fatherName;
+	private int dob;
+	private long phoneNumber;
+	private String mailId;
+	private AddressDto address;  
+	
+	
+	
+}

@@ -1,0 +1,5 @@
+package com.xworkz.resume.dto;
+
+public class AddressDto {
+
+}
