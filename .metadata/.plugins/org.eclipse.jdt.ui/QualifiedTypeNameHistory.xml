@@ -4,4 +4,16 @@
     <fullyQualifiedTypeName name="com.xworkz.computer.dto.Type"/>
     <fullyQualifiedTypeName name="com.xworkz.computer.dto.ProcessorDto"/>
     <fullyQualifiedTypeName name="com.xworkz.computer.dao.ComputerDao"/>
+    <fullyQualifiedTypeName name="com.xworkz.food.dto.FoodDto"/>
+    <fullyQualifiedTypeName name="com.xworkz.food.dao.FoodDao"/>
+    <fullyQualifiedTypeName name="com.xworkz.creatine.dto.CreatineDto"/>
+    <fullyQualifiedTypeName name="com.xworkz.creatine.dao.CreatineDao"/>
+    <fullyQualifiedTypeName name="com.xworkz.vegetables.dto.VegetablesDto"/>
+    <fullyQualifiedTypeName name="com.xworkz.vegetables.dao.VegetablesDao"/>
+    <fullyQualifiedTypeName name="com.xworkz.vegetables.dto.NutrientsDto"/>
+    <fullyQualifiedTypeName name="com.xworkz.vegetables.constant.VegetablesType"/>
+    <fullyQualifiedTypeName name="com.xworkz.shoe.dto.ShoeDto"/>
+    <fullyQualifiedTypeName name="com.xworkz.shoe.dto.FeaturesDto"/>
+    <fullyQualifiedTypeName name="com.xworkz.shoe.constant.ShoeType"/>
+    <fullyQualifiedTypeName name="com.xworkz.shoe.dao.ShoeDao"/>
 </qualifiedTypeNameHistroy>
