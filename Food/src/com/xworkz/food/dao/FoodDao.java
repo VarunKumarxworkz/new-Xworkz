@@ -1,5 +1,6 @@
 package com.xworkz.food.dao;
 
+import com.xworkz.food.DtoIsNotNullException;
 import com.xworkz.food.dto.FoodDto;
 
 public class FoodDao {
@@ -8,7 +9,7 @@ public class FoodDao {
 	FoodDto[] food = new FoodDto[10] ;
 	
 	
-	public FoodDto[] saveDetails(FoodDto dto) {
+	public FoodDto[] saveDetails(FoodDto dto) throws DtoIsNotNullException  {
 		
 		if(dto!=null) {
 			
@@ -23,12 +24,13 @@ public class FoodDao {
 				
 			}
 			System.out.println("loop is not working ");
-			return food;
+			
 		}
-		System.out.println("dto is null so check the dto");
+		else{
+			throw new DtoIsNotNullException("dto is null check the dto");
+		}
+		
 		return food;
-		
-		
 		
 		
 	}

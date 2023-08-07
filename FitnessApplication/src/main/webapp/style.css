@@ -1,0 +1,15 @@
+@charset "ISO-8859-1";
+.size{
+	
+	height:50%;
+	width:100%;
+}
+.form-control{
+	width:25%;
+}
+
+body {
+	background-image: url("https://i.pinimg.com/474x/fc/78/15/fc7815fd58a9d67d1bc5b858b4c7ccf6.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
