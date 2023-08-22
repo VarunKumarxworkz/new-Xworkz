@@ -3,7 +3,8 @@
   <groupId>com.xworkz.Vehicle</groupId>
   <artifactId>Vehicle</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <packaging>war</packaging> <properties>
+  <packaging>war</packaging>
+   <properties>
   <mysql.version>8.0.33</mysql.version>
   <lombok.version>1.18.28</lombok.version>
   <servlet.version>4.0.1</servlet.version>
