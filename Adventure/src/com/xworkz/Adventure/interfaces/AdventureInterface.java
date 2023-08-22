@@ -4,6 +4,6 @@ public interface AdventureInterface {
 
 	public void Place();
 	public void Package();
-	
+	   
 	
 }
