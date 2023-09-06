@@ -4,6 +4,8 @@
     <typeInfo handle="=Tour/src=/optional=/true=/=/maven.pomderived=/true=/&lt;com.xworkz.tour.app{TourInterface.java[TourInterface" modifiers="513" timestamp="1692696386911"/>
     <typeInfo handle="=TravelApp/src=/optional=/true=/=/maven.pomderived=/true=/&lt;com.xworkz.travelapp.app{TravelAppInterface1.java[TravelAppInterface1" modifiers="513" timestamp="1692698055533"/>
     <typeInfo handle="=TravelApp/src=/optional=/true=/=/maven.pomderived=/true=/&lt;com.xworkz.travelapp.app{TravelAppInterface2.java[TravelAppInterface2" modifiers="513" timestamp="1692698183114"/>
-    <typeInfo handle="=Employee/src&lt;com.xworkz.employee.repo{EmployeeRepo.java[EmployeeRepo" modifiers="513" timestamp="1693220529628"/>
-    <typeInfo handle="=Employee/src&lt;com.xworkz.employee.service{EmployeeService.java[EmployeeService" modifiers="513" timestamp="1693220535689"/>
+    <typeInfo handle="=Employee/src&lt;com.xworkz.employee.repo{EmployeeRepo.java[EmployeeRepo" modifiers="513" timestamp="1693223180457"/>
+    <typeInfo handle="=Employee/src&lt;com.xworkz.employee.service{EmployeeService.java[EmployeeService" modifiers="513" timestamp="1693223198041"/>
+    <typeInfo handle="=Leo/src&lt;com.xworkz.leo.reepo{LeoRepo.java[LeoRepo" modifiers="513" timestamp="1693373172655"/>
+    <typeInfo handle="=Leo/src&lt;com.xworkz.leo.serv{LeoServ.java[LeoServ" modifiers="513" timestamp="1693373904123"/>
 </typeInfoHistroy>

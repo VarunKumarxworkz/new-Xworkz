@@ -20,6 +20,8 @@
 <item elementID="=Chaning Constructors" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=IceCreamApplication" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=Amazon" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=JavaCodeTest" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=SpiderMan" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 </workingSet>
 <workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1688992451024_8" label="Advancejava" name="Advancejava">
 <item elementID="=PizzaApplications" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
@@ -41,6 +43,9 @@
 <item elementID="=TravelApp" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=Karnataka" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=Employee" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=Leo" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=Taxi" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=TaxiWala" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 </workingSet>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1683005052684_2" label="Window Working Set" name="Aggregate for window 1683005052684"/>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1687151720514_4" label="Window Working Set" name="Aggregate for window 1687151720514"/>
@@ -49,8 +54,8 @@
 <workingSet IMemento.internal.id="Practice"/>
 </workingSet>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1690536003608_9" label="Window Working Set" name="Aggregate for window 1690536003608"/>
+<mruList name="Practice"/>
 <mruList name="Advancejava"/>
 <mruList name="test"/>
-<mruList name="Practice"/>
 <mruList name="jdbc"/>
 </workingSetManager>
